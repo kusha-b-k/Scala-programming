@@ -1,6 +1,8 @@
 # Scala Programming
 
-#1. How to define integer  variables in Scala
+##how to define  mutable variables in scala 
+
+#1. How to define integer   variables in Scala
 
 
 syntax 1 
