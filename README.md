@@ -1,6 +1,7 @@
 # Scala Programming
+Learn scala in simple way 
 
-##how to define  mutable variables in scala 
+##How to define  mutable variables in scala 
 
 #1. How to define integer   variables in Scala
 
