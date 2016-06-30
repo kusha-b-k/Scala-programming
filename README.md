@@ -1,6 +1,40 @@
 # Scala Programming
 Learn scala in simple way 
 
+# How to comment in scala 
+
+type 1 :
+        
+           /** This is a comment in scala defined autor kusha b k **/
+
+
+type 2 :
+        
+         // this line  is comment in scala defined by autor 
+
+
+
+
+#How to import package in scala 
+ 
+type 1:
+         
+                    import kushabk._          
+
+type 2:
+          
+                    import kusha.b
+
+type 3:
+                
+                    import kusha.b.k        
+
+type 4:
+              
+                    import kusha.{b,k}
+
+
+
 ##How to define  mutable variables in scala 
 
 #1. How to define integer   variables in Scala
