@@ -112,7 +112,7 @@ examples
      
      
 #Defining The function in scala
-        def f(myintvariable: Int) = { myintvariable * myintvariable }
+        def thisismyfunctionname(myintvariable: Int) = { myintvariable * myintvariable }
 
 
 
