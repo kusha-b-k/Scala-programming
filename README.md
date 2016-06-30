@@ -105,8 +105,14 @@ examples
 
 
      var mycharvalueInit = 'K'
-     
 
+#How to print out put in scala
+  
+        println("This is my output")
+     
+     
+#Defining The function in scala
+        def f(myintvariable: Int) = { myintvariable * myintvariable }
 
 
 
