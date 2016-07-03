@@ -1,6 +1,65 @@
 # Scala Programming
 Learn scala in simple way 
 
+
+#List of Scala Keywords
+
+              @
+              #
+              >:
+              <%
+              <:
+               <-
+               =>
+               =
+               :
+               -
+        abstract
+        case
+        catch
+        class
+        def
+        do
+        else
+        extends
+        false
+        final
+        finally
+        for
+        forSome
+        if
+        implicit
+        import
+        lazy
+        match
+        new
+        Null
+        object
+        override
+        package
+        private
+        protected
+        return
+        sealed
+        super
+        this
+        throw
+        trait
+        Try
+        true
+        type
+        val
+        Var
+        while
+        with
+        yield
+        
+
+
+
+
+
+
 # How to comment in scala 
 
 type 1 :
