@@ -78,11 +78,11 @@ type 2 :
  
 type 1:
          
-                    import kushabk._          
+                    import kushabk._   //	all members of kushabk       
 
 type 2:
           
-                    import kusha.b
+                    import kusha.b    //the member b of kusha
 
 type 3:
                 
