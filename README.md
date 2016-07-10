@@ -211,7 +211,8 @@ examples
            var variable_name:Array[array_type] = new Array[array_type] (size_of_array)
   
   example 
-      var k:Array[String] = new Array[String](10)
+      
+            var k:Array[String] = new Array[String](10)
      
      
 #Defining The function in scala
