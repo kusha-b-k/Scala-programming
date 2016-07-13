@@ -201,7 +201,8 @@ examples
 
 #How to print out put in scala
   
-        println("This is my output")
+          
+           println("This is my output")
      
      
 #How to Define array in scala
@@ -216,6 +217,8 @@ examples
      
      
 #Defining The function in scala
+       
+       
         def thisismyfunctionname(myintvariable: Int) = { myintvariable * myintvariable }
 
 
