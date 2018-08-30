@@ -2,7 +2,7 @@
 Learn scala in simple way 
 
 
-#List of Scala Keywords
+# List of Scala Keywords
 
               @
               #
@@ -53,19 +53,16 @@ Learn scala in simple way
         while
         with
         yield
-        
-
-
-
-
+       
 
 
 # How to comment in scala 
 
 type 1 :
+
         
            /** This is a comment in scala defined autor kusha b k **/
-
+           
 
 type 2 :
         
@@ -74,7 +71,7 @@ type 2 :
 
 
 
-#How to import package in scala 
+# How to import package in scala 
  
 type 1:
          
@@ -94,9 +91,9 @@ type 4:
 
 
 
-##How to define  mutable variables in scala 
+# How to define  mutable variables in scala 
 
-#1. How to define integer   variables in Scala
+# 1. How to define integer   variables in Scala
 
 
 syntax 1 
@@ -117,7 +114,7 @@ examples
      var myIntvalueInit = 100
    
    
-##2. How to define Double  variables in Scala
+# 2. How to define Double  variables in Scala
 
 syntax 1 
 
@@ -138,7 +135,7 @@ examples
      
    
    
-##3. How to define Floating  variables in Scala
+# 3. How to define Floating  variables in Scala
 
 
 syntax 1 
@@ -159,7 +156,7 @@ examples
      var myfloatvalueInit = 100.0f
      
    
-##4. How to define String  variables in Scala
+# 4. How to define String  variables in Scala
 
 syntax 1 
 
@@ -180,7 +177,7 @@ examples
      
 
 
-##5. How to define Character  variables in Scala
+# 5. How to define Character  variables in Scala
 
 syntax 1 
 
@@ -199,13 +196,13 @@ examples
 
      var mycharvalueInit = 'K'
 
-#How to print out put in scala
+# How to print out put in scala
   
           
            println("This is my output")
      
      
-#How to Define array in scala
+# How to Define array in scala
 
   syntax 1:
          
@@ -216,7 +213,7 @@ examples
             var k:Array[String] = new Array[String](10)
      
      
-#Defining The function in scala
+# Defining The function in scala
        
        
         def thisismyfunctionname(myintvariable: Int) = { myintvariable * myintvariable }
